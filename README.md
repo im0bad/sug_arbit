@@ -3,5 +3,5 @@ To install the ccxt library, run the following command in your terminal:
 
 ```bash
 pip install ccxt
-
+```
 Run...
